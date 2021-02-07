@@ -1,0 +1,103 @@
+.oliygoh {
+  background-color: #F8F9FB;
+}
+
+.oliygoh .container .row .col-lg-6 h3 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #181818;
+}
+
+.oliygoh .container .row .col-lg-6 span {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #9B9FAB;
+}
+
+.oliygoh .container .row .col-md-33 {
+  margin-top: 20px;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha {
+  padding: 20px;
+  padding-bottom: 14px;
+  background-color: #fff;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha h5 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #181818;
+  margin-bottom: 13px;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha .checked:hover img {
+  display: block;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha .checked:hover a {
+  color: #2681FF;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha .checked a {
+  font-size: 14px;
+  line-height: 17px;
+  color: #738099;
+  padding: 7.5px 0;
+  display: block;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha .checked a:hover {
+  text-decoration: none;
+}
+
+.oliygoh .container .row .col-md-33 .cardcha .checked img {
+  display: none;
+}
+
+.oliygoh .container .row .col-md-99 {
+  margin-top: 20px;
+}
+
+.oliygoh .container .row .col-md-99 .quticha {
+  padding: 20px;
+  background-color: #fff;
+}
+
+.oliygoh .container .row .col-md-99 .quticha .univer .col-md-9 h6 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #181818;
+  margin-bottom: 15px;
+}
+
+.oliygoh .container .row .col-md-99 .quticha .univer .col-md-9 span {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #9B9FAB;
+  margin-right: 30px;
+  position: relative;
+  margin-left: 11px;
+}
+
+.oliygoh .container .row .col-md-99 .quticha .univer .col-md-3 .buttons2 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #738099;
+  padding: 12px 30px;
+  border: 1px solid #b8bfcc;
+  border-radius: 0;
+}
+
+.oliygoh .container .row .col-md-99 .quticha .univer .col-md-3 .buttons2:hover {
+  background-color: #2681FF;
+  color: #fff;
+}
+/*# sourceMappingURL=Oliygoh.css.map */

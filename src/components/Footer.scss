@@ -1,0 +1,125 @@
+.footer {
+  padding-top: 35px;
+  .container {
+    .row {
+      .col-md-3 {
+        img {
+          transition: .3s;
+          margin-bottom: 15px;
+
+          &:hover {
+            transform: scale(1.04)
+          }
+        }
+      }
+
+      .col-md-5 {
+        .row {
+          .col-lg-3{
+            padding: 0;
+          }
+          .card {
+            border: none;
+            margin-right: 10px;
+            margin-bottom: 13px;
+            box-shadow: 0px 0.5px 1px rgba(48, 49, 51, 0.1), 0px 0px 2px rgba(48, 49, 51, 0.13);
+            button {
+              font-weight: 500;
+              font-size: 14px;
+              line-height: 17px;
+              color: #3A404E;
+              padding: 10px 12px;
+              border: none;
+
+
+              &:hover {
+                color: #fff;
+              }
+            }
+
+          }
+        }
+      }
+
+      .col-md-2 {
+        ul {
+          margin: 0;
+          padding: 0;
+          list-style: none;
+
+          li {
+            a {
+              font-weight: 500;
+              font-size: 18px;
+              line-height: 22px;
+              color: #3A404E;
+              display: inline-block;
+              margin-bottom: 10px;
+              padding-bottom: 5px;
+              position: relative;
+
+              &::before {
+                content: '';
+                width: 100%;
+                height: 1.4px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                background-color: #103972;
+                transform: scale(0);
+                transition: .3s;
+              }
+
+              &:hover {
+                text-decoration: none;
+
+                &::before {
+                  transform: scale(1);
+                }
+              }
+            }
+          }
+        }
+      }
+
+      p {
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        color: #738099;
+        margin: 0;
+      }
+
+      h6 {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        color: #9B9FAB;
+        margin-bottom: 20px;
+      }
+    }
+
+    .row2 {
+      div {
+        max-width: 100%;
+
+        a {
+          font-weight: normal;
+          font-size: 14px;
+          line-height: 17px;
+          color: #738099;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width:767.6px) {
+  .footer {
+    text-align: center !important;
+  }
+}

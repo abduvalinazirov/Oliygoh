@@ -1,0 +1,48 @@
+.news101 {
+  background-color: #F8F9FB;
+  padding-bottom: 20px;
+}
+
+.news101 .news {
+  padding: 10px 0;
+}
+
+.news101 .news .textRound {
+  margin-top: 30px;
+}
+
+.news101 .news .row .col-md-4 {
+  margin-bottom: 20px;
+}
+
+.news101 .news .row .col-md-4 .card {
+  border: none;
+}
+
+.news101 .news .row .col-md-4 .card img {
+  width: 100%;
+}
+
+.news101 .news .row .col-md-4 .card span {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #9B9FAB;
+  mix-blend-mode: normal;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.news101 .news .row .col-md-4 .card a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #3A404E;
+  margin: 0;
+  display: block;
+}
+
+.news101 .news .row .col-md-4 .card a:hover {
+  text-decoration: none;
+}
+/*# sourceMappingURL=News.css.map */

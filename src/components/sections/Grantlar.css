@@ -1,0 +1,38 @@
+.grantlar {
+  background-color: #F8F9FB;
+}
+
+.grantlar .row .col-md-6 .box p {
+  bottom: 2px;
+}
+
+.grantlar .row .col-md-6 .box img {
+  cursor: pointer;
+  width: 100%;
+}
+
+.grantlar .row .col-md-6 .lastTime {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #9B9FAB;
+  mix-blend-mode: normal;
+  margin-top: 15px !important;
+  margin-bottom: 10px;
+}
+
+.grantlar .row .col-md-6 .lastTime span {
+  color: #2681FF;
+}
+
+.grantlar .row .col-md-6 a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #3A404E;
+}
+
+.grantlar .row .col-md-6 a:hover {
+  text-decoration: none;
+}
+/*# sourceMappingURL=Grantlar.css.map */

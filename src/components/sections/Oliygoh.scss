@@ -1,0 +1,129 @@
+.oliygoh {
+  background-color: #F8F9FB;
+
+  .container {
+    .row {
+      .col-lg-6 {
+        h3 {
+          font-weight: bold;
+          font-size: 24px;
+          line-height: 30px;
+          color: #181818;
+        }
+      }
+
+      .col-lg-6 {
+        span {
+          font-weight: 500;
+          font-size: 12px;
+          line-height: 18px;
+          letter-spacing: -0.05px;
+          color: #9B9FAB;
+        }
+
+
+      }
+    }
+
+    .row {
+      .col-md-33 {
+        margin-top: 20px;
+
+        .cardcha {
+          padding: 20px;
+          padding-bottom: 14px;
+          background-color: #fff;
+
+          h5 {
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 17px;
+            color: #181818;
+            margin-bottom: 13px;
+          }
+
+          .checked {
+            &:hover {
+              img {
+                display: block;
+              }
+
+              a {
+                color: #2681FF;
+              }
+            }
+
+            a {
+              font-size: 14px;
+              line-height: 17px;
+              color: #738099;
+              padding: 7.5px 0;
+              display: block;
+
+              &:hover {
+                text-decoration: none;
+              }
+            }
+
+            img {
+              display: none;
+            }
+
+          }
+        }
+      }
+
+      .col-md-99 {
+        margin-top: 20px;
+
+        .quticha {
+          padding: 20px;
+          background-color: #fff;
+
+          .univer {
+            .col-md-9 {
+              h6 {
+                font-weight: 500;
+                font-size: 18px;
+                line-height: 22px;
+                color: #181818;
+                margin-bottom: 15px;
+              }
+
+              span {
+                font-weight: normal;
+                font-size: 14px;
+                line-height: 17px;
+                color: #9B9FAB;
+                margin-right: 30px;
+                position: relative;
+                margin-left: 11px;
+              }
+
+
+            }
+
+            .col-md-3 {
+              .buttons2 {
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 17px;
+                color: #738099;
+                padding: 12px 30px;
+                border: 1px solid #b8bfcc;
+                border-radius: 0;
+
+                &:hover {
+                  background-color: #2681FF;
+                  color: #fff;
+                }
+              }
+            }
+          }
+        }
+
+        
+      }
+    }
+  }
+}

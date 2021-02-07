@@ -1,0 +1,364 @@
+.icon-1 {
+  background-color: #738099;
+  width: 16px;
+  height: 26px;
+  mask-image: url("../img/12.svg");
+  -webkit-mask-image: url("../img/12.svg");
+}
+
+.icon-2 {
+  background-color: #738099;
+  width: 12px;
+  height: 26px;
+  mask-image: url("../img/13.svg");
+  -webkit-mask-image: url("../img/13.svg");
+}
+
+.icon-3 {
+  background-color: #738099;
+  width: 17px;
+  height: 26px;
+  mask-image: url("../img/14.svg");
+  -webkit-mask-image: url("../img/14.svg");
+}
+
+.icon-4 {
+  background-color: #738099;
+  width: 20px;
+  height: 26px;
+  mask-image: url("../img/15.svg");
+  -webkit-mask-image: url("../img/15.svg");
+}
+
+.Abituriyent {
+  background-color: #F8F9FB;
+  padding: 50px 0;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil {
+  padding: 24px 26px;
+  background-color: #fff;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil h3 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #181818;
+  margin-bottom: 24px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .name img {
+  margin-right: 16px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .name h6 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #181818;
+  margin-bottom: 4px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .name p {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #2681FF;
+  margin-bottom: 0;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .menu {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #9B9FAB;
+  margin-bottom: 16px;
+  margin-top: 25px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .row .col-4 h5 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #3A404E;
+  margin-bottom: 4px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .row .col-4 span {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #9B9FAB;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 {
+  padding: 0;
+  margin: 0;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 {
+  border: none;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 a {
+  margin-bottom: 14px;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 a:hover {
+  text-decoration: none;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 a:hover .icon {
+  background-color: #2681FF;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 a:hover p {
+  color: #2681FF;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 a .quti {
+  width: 20px;
+  margin-right: 12px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .links-0 .col-lg-12 a p {
+  margin: 0;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #738099;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .box3 {
+  background-color: #F8F9FB;
+  border: 1px solid #DFE1E5;
+  margin-top: 50px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .box3 h4 {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3A404E;
+  margin-bottom: 4px;
+}
+
+.Abituriyent .container .row .col-lg-3 .profil .box3 a {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #2681FF;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam {
+  padding: 24px 26px;
+  background-color: #fff;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam h3 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #181818;
+  margin-bottom: 30px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam h5 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #181818;
+  margin-bottom: 24px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row {
+  padding: 14px 0;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-8 .box5 {
+  border: 1px solid #d6d7da;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-8 .box5 .row {
+  margin: auto 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-8 .box5 .row .col-md-3 {
+  text-align: center;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-8 .box5 .row .col-md-3 h6 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #3A404E;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-8 .box5 .row .col-md-3 p {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #9B9FAB;
+  margin-bottom: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-4 {
+  padding-left: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-4 .box6 {
+  background-color: #2681FF;
+  background-image: url("../img/fa.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: contain;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 14px;
+  margin-left: 14px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-4 img {
+  margin-right: 30px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-4 h6 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  margin-bottom: 4px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .row .col-md-4 span {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #DFE1E5;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval {
+  overflow: scroll;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table thead tr th {
+  text-align: center;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #9B9FAB;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr th {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3A404E;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 10px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td {
+  text-align: center;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td h6 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #3A404E;
+  margin: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td p {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #738099;
+  margin: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td h5 {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 18px;
+  color: #3A404E;
+  margin: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td h3 {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.05px;
+  color: #738099;
+  margin: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td h4 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #3A404E;
+  margin: 0;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td button {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #738099;
+  border: 2px solid #e4e4e4;
+  border: radius 0;
+  padding: 10px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .jadval table tbody tr td button:hover {
+  color: #fff;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .aksiya {
+  background: #EAF6FF;
+  border: 1px solid #DFE1E5;
+  padding: 14px 32px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .aksiya p {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #3A404E;
+  margin-bottom: 8px;
+}
+
+.Abituriyent .container .row .col-lg-9 .exam .aksiya span {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #F4900C;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=Abituriyent.css.map */

@@ -1,0 +1,129 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+.icon {
+  width: 14px;
+  height: 26px;
+  display: inline-block;
+  mask-repeat: no-repeat;
+  mask-size: 100%;
+  mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: 100%;
+  -webkit-mask-position: center;
+  vertical-align: middle;
+  transition: 0.3s;
+}
+
+.buttons {
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+  padding: 15px !important;
+  background: #2681ff !important;
+  color: #fff !important;
+  border-radius: 0 !important;
+  transition: 0.3s;
+}
+.buttons:hover {
+  background: #2269ce !important;
+}
+.textRound {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #181818;
+  margin-left: 20px;
+  position: relative;
+}
+.textRound::before {
+  content: " ";
+  height: 8px;
+  width: 8px;
+  background-color: #f4900c;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -20px;
+  border-radius: 50%;
+}
+.box {
+  position: relative;
+}
+.box img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+.box .badgeIMG {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #fff;
+  background-color: #2681ff;
+  padding: 10px 20px;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+}
+.orange::before {
+  content: "";
+  height: 6px;
+  width: 6px;
+  position: absolute;
+  left: -11px;
+  background-color: #f4900c;
+  border-radius: 50%;
+  bottom: 35%;
+}
+
+.green::before {
+  content: "";
+  height: 6px;
+  width: 6px;
+  position: absolute;
+  left: -11px;
+  background-color: #57bf6e;
+  border-radius: 50%;
+  bottom: 35%;
+}
+.violet::before {
+  content: "";
+  height: 6px;
+  width: 6px;
+  position: absolute;
+  left: -11px;
+  background-color: #9266cc;
+  border-radius: 50%;
+  bottom: 35%;
+}
+
+.Links a {
+  margin-left: 10px;
+  border-radius: 1px;
+  border: 2px solid #e3e5e9;
+  color: #9b9fab;
+  padding: 2px 11px;
+}
+
+.Links a:hover {
+  border: 2px solid #2681ff;
+  color: #2681ff;
+}
+
+.Links .active {
+  border: 2px solid #2681ff;
+  color: #2681ff;
+}
+
+.imgBox {
+  overflow: hidden;
+}
+.imgBox img {
+  max-width: 100%;
+  transition: 0.4s;
+}
+.imgBox img:hover {
+  transform: scale(1.06);
+}

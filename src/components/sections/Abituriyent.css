@@ -255,7 +255,7 @@
 }
 
 .Abituriyent .container .row .col-lg-9 .exam .jadval {
-  overflow: scroll;
+  overflow: auto;
 }
 
 .Abituriyent .container .row .col-lg-9 .exam .jadval table thead tr th {
